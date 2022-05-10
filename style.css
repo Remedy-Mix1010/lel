@@ -1,0 +1,21 @@
+#area51{
+    text-shadow: 2px 2px #6e7579;
+    bottom: 0;
+    position: fixed;
+    background-color: aliceblue;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: #f0e3c0;
+    font-family: 'Quicksand', sans-serif;
+}
+.yes{
+    background-color: aliceblue;
+    top: 0;
+    margin-top: 0px;
+    
+}
+#start{
+    margin-top: 10px;
+}
